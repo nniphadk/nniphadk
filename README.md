@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Neha @nniphadk
-- 👀 I’m interested in all things data (frontend and backend)
-- 🌱 I’m currently working at Old Dominion University as a Data Analyst (Info Tech Specialist II)
-- 💞️ I’m looking to collaborate on dashboards, visualizations, building data warehouses
+- 👀 I’m interested in all things data
+- 🌱 I’m currently working at Old Dominion University as a Data Analyst Manager
 - 📫 You can reach me via email nniphadk@odu.edu
 
 <!---
